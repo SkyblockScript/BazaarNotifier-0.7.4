@@ -1,5 +1,5 @@
 # BazaarNotifier-0.7.4
-A Skyblock Flipping Mod|Official Beta release
+A Skyblock Flipping Mod | Official Beta release
 
 /bnf - shows the config GUI
 
